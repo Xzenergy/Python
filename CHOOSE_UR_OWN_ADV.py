@@ -39,5 +39,5 @@ elif answer == "cross":
 
 
 else:
-     print("You lose the game...")
+     print("Thank you for trying,", name)
 
