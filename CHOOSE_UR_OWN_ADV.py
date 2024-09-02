@@ -31,7 +31,7 @@ elif answer == "cross":
      answer = input("You come to a fork in the road. Do you take the left path, or the right?").lower() 
 
      if answer == "right":
-            print("You take the path to the right and find yourself winding up a thin game path. At the end, you find Enlightement and leave the universe behind.") 
+            print("You take the path to the right and find yourself winding up a thin game path. At the end, you find Enlightenment and leave the universe behind.") 
      elif answer == "left": 
             print("As you're walking, halfway down the path, you fall into a pit with spikes and die.")
      else:
