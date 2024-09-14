@@ -53,7 +53,7 @@ def main():
         total_bet = bet * lines # type: ignore
 
         if total_bet > balance:
-            print(f"You do not have enough to bet that amount, your current balance is: ${balance}))
+            print(f"You do not have enough to bet that amount, your current balance is: ${balance})
     
                   
     print(f"You are betting ${bet} on {lines} lines. Total bet is equal to: ${total_bet}")
